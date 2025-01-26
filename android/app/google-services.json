@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300675054934",
+    "project_id": "zoop-binge-app",
+    "storage_bucket": "zoop-binge-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300675054934:android:e88d3f23a268e53c0feaf7",
+        "android_client_info": {
+          "package_name": "com.zoop.binge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1wKiKZkKlAtp59NCCPZuAATHE3X8X-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
